@@ -5,3 +5,7 @@ Just do
 `npm run dev`
 And then navigate to
 `http:localhost:<portNum>/pages`
+
+In the code also set the baseURL port number to whatever the backend side is running on.
+
+github.com/ChiliPaneer/speechEmulatorBack/
